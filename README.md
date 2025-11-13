@@ -30,3 +30,7 @@
 * Быстро учимся играть со шрифтами [ссылка на статью](https://kinzhal.media/fonts/?utm_source=telegram&utm_medium=social&utm_campaign=post)
 * Список книг для технических писателей [Список книг для технических писателей](https://technicalwriters.ru/techwriterbooks)
 * Как учиться [ссылка на пост в тг](https://t.me/parawriter/194)
+
+## Основные ГОСТы
+
+* [Ссылка на папку](https://disk.yandex.ru/d/Fg5O1YdT9c8QPQ)
