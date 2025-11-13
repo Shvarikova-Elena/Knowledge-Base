@@ -19,3 +19,4 @@
 * Сертификация ФСТЭК: [часть 1](https://habr.com/ru/companies/express/articles/856192/), [часть 2](https://habr.com/ru/companies/express/articles/858488/?ysclid=mgqutkliki710694696)
 * Быстро учимся играть со шрифтами [ссылка на статью](https://kinzhal.media/fonts/?utm_source=telegram&utm_medium=social&utm_campaign=post)
 * Список книг для технических писателей [Список книг для технических писателей](https://technicalwriters.ru/techwriterbooks)
+* Как учиться [ссылка на пост в тг](https://t.me/parawriter/194)
