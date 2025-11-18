@@ -30,6 +30,7 @@
 * Быстро учимся играть со шрифтами [ссылка на статью](https://kinzhal.media/fonts/?utm_source=telegram&utm_medium=social&utm_campaign=post)
 * Список книг для технических писателей [Список книг для технических писателей](https://technicalwriters.ru/techwriterbooks)
 * Как учиться [ссылка на пост в тг](https://t.me/parawriter/194)
+* Как знакомиться на IT-конференциях без неловкостей: гид по нетворкингу для разработчиков [ссылка на статью](https://habr.com/ru/companies/speach/articles/914274/)
 
 ## Основные ГОСТы
 
